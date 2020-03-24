@@ -1,0 +1,69 @@
+h1{
+	font-family: arial;
+	text-align: center;
+	font-size: 16px;
+}
+.title{
+	font-family: arial;
+	text-align: center;
+	color: #6495ED;
+	font-size: 50px;
+}
+.subtitle{
+	font-family: arial;
+	text-align: center;
+	font-size: 16px;
+}
+.secondary-titles{
+	font-family: arial;
+	text-align: left;
+	font-weight: normal;
+	font-weight: bold;
+	font-weight: 900;
+	color: #6495ED;
+	font-size: 25px;
+	margin-right: 40px;
+	margin-left: 40px;
+    
+}
+.hr{
+	display: block;
+	background: #6495ED;
+	height: 12px;
+	margin-right: 40px;
+	margin-left: 40px;
+	
+}
+.subtitle2{
+	font-family: arial;
+	text-align: justify;
+	font-size: 20px;
+	margin-right: 40px;
+	margin-left: 40px;
+}
+.title3{
+	font-family: arial;
+	text-align: left;
+	font-size: 20px;
+	font-weight: normal;
+	font-weight: bold;
+	font-weight: 900;
+	margin-right: 40px;
+	margin-left: 40px;
+}
+.subtitle3{
+	font-family: arial;
+	text-align: justify;
+	font-size: 20px;
+	margin-right: 60px;
+	margin-left: 60px;
+}
+.subtitle4{
+	font-family: arial;
+	text-align: justify;
+	font-size: 20px;
+	margin-right: 40px;
+	margin-left: 40px;
+	color: #81D8D0;
+	font-style: italic;
+}
